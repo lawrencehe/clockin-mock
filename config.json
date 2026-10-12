@@ -1,0 +1,15 @@
+{
+  "domain": "ems_oa 域名,如 xxx.larksuite.com / 内网 ems_oa 下发域名(抓包可见)",
+  "session": "你的登录态 session(cookie: session=xxx)",
+  "device_id": "真机飞书的 device_id",
+  "device_model": "你的真机rom版本, 系统版本",
+  "longitude": 121.499241,
+  "latitude": 31.343448,
+  "wifi_file": "wifi.json",
+  "dry_run": true,
+  "extra_headers": {},
+  "extra_cookies": {},
+  "user_agent": "",
+  "gps_jitter_radius_m": 80,
+  "fail_log": "clockin_fail.log"
+}

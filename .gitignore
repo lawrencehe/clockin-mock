@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 运行产物 / 日志
+*.log
+clockin_fail.log
+
+# 填入了真实凭据的本地配置(如需保留模板请勿改名 config.json)
+config.local.json

@@ -1,0 +1,24 @@
+{
+  "connected": {
+    "name": "Office-5G",
+    "mac_address": "aa:bb:cc:dd:ee:01",
+    "network_security_type": 3
+  },
+  "scan_list": [
+    {
+      "name": "Office-5G",
+      "mac_address": "aa:bb:cc:dd:ee:01",
+      "network_security_type": 3
+    },
+    {
+      "name": "Office",
+      "mac_address": "aa:bb:cc:dd:ee:02",
+      "network_security_type": 3
+    },
+    {
+      "name": "Neighbor",
+      "mac_address": "aa:bb:cc:dd:ee:03",
+      "network_security_type": 2
+    }
+  ]
+}
